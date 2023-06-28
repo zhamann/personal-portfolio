@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Software Developer
+          Aspiring full-stack developer specializing in Next.js and Python
         </p>
 
         <div className={styles.grid}>
