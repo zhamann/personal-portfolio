@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://github.com/ZacHamann/personal-portfolio" className={styles.card}>
             <h3>Portfolio &rarr;</h3>
             <p>View the repository for this website!</p>
           </a>
