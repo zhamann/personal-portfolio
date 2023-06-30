@@ -21,12 +21,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://github.com/zshamann/personal-portfolio" className={styles.card}>
+          <a href="https://github.com/zhamann/personal-portfolio" className={styles.card}>
             <h3>Portfolio &rarr;</h3>
             <p>View the repository for this website!</p>
           </a>
 
-          <a href="https://github.com/zshamann/flask-dash-boilerplate" className={styles.card}>
+          <a href="https://github.com/zhamann/flask-dash-boilerplate" className={styles.card}>
             <h3>Dash within Flask &rarr;</h3>
             <p>A Flask application that initializes Dash applications as routes!</p>
           </a>
@@ -35,7 +35,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://github.com/ZacHamann"
+          href="https://github.com/zhamann"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.icon}
