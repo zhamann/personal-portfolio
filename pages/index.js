@@ -26,6 +26,11 @@ export default function Home() {
             <p>View the repository for this website!</p>
           </a>
 
+          <a href="https://github.com/zhamann/tdee-calculator" className={styles.card}>
+            <h3>TDEE Calculator &rarr;</h3>
+            <p>A Next.js app that calculates total daily energy expenditure!</p>
+          </a>
+
           <a href="https://github.com/zhamann/flask-dash-boilerplate" className={styles.card}>
             <h3>Dash within Flask &rarr;</h3>
             <p>A Flask application that initializes Dash applications as routes!</p>
