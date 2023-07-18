@@ -1,8 +1,14 @@
 {
+<<<<<<< HEAD
+=======
+  "name": "personal-portfolio",
+  "version": "0.1.0",
+>>>>>>> app-router
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+<<<<<<< HEAD
     "start": "next start"
   },
   "dependencies": {
@@ -13,5 +19,25 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+=======
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.15",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.10",
+    "next": "13.4.10",
+    "postcss": "8.4.26",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.1.6"
+>>>>>>> app-router
   }
 }

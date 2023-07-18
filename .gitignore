@@ -17,6 +17,10 @@
 
 # misc
 .DS_Store
+<<<<<<< HEAD
+=======
+*.pem
+>>>>>>> app-router
 
 # debug
 npm-debug.log*
@@ -24,7 +28,18 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+<<<<<<< HEAD
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+=======
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+>>>>>>> app-router
