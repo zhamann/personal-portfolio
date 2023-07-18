@@ -2,7 +2,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 import Card from './components/card';
-import { projects } from '../data.json';
+import data from '../data.json';
+
+const projects = data.projects
 
 export default function Home() {
   return (
