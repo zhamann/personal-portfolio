@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "title": "Portfolio",
+            "description": "View the repository for this website!",
+            "link": "https://github.com/zhamann/personal-portfolio"
+        },
+        {
+            "title": "TDEE Calculator",
+            "description": "A Next.js app that calculates total daily energy expenditure!",
+            "link": "https://github.com/zhamann/tdee-calculator"
+        },
+        {
+            "title": "Dash within Flask",
+            "description": "A Flask application that initializes Dash applications as routes!",
+            "link": "https://github.com/zhamann/flask-dash-boilerplate"
+        }
+    ]
+}
