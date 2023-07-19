@@ -12,7 +12,7 @@ const Card: React.FC<CardProps> = ({ title, description, link, image }) => {
     <a
       href={link}
       className="
-        mt-8 w-[45%] relative bg-white
+        mt-8 basis-[45%] relative bg-white
         border-8 border-white rounded-xl
         shadow-lg shadow-black/25 
         hover:text-blue-500 hover:shadow-xl hover:shadow-black/30
