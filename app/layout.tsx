@@ -20,7 +20,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={roboto_flex.className}>{children}</body>
+      <body className={roboto_flex.className}>
+        <div className='bg-[#F5F5F5]'>
+          {children}
+        </div>
+      </body>
     </html>
   )
 }
