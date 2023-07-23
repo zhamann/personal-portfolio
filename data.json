@@ -13,10 +13,22 @@
             "image": "/calculator.png"
         },
         {
+            "title": "Daily Journal",
+            "description": "A Next.js app that serves as a daily journal!",
+            "link": "https://github.com/zhamann/daily-journal",
+            "image": "/journal.png"
+        },
+        {
             "title": "Dash within Flask",
             "description": "A Flask application that initializes Dash applications as routes!",
-            "link": "https://github.com/zhamann/flask-dash-boilerplate",
+            "link": "https://github.com/zhamann/next-template",
             "image": "/flask-dash.png"
+        },
+        {
+            "title": "Next.js Boilerplate",
+            "description": "A Next.js template that uses Tailwind CSS, Typescript, and App Router!",
+            "link": "https://github.com/zhamann/flask-dash-boilerplate",
+            "image": "/next-template.png"
         }
     ]
 }
