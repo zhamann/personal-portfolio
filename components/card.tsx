@@ -18,11 +18,12 @@ const Card: React.FC<CardProps> = ({ title, description, link, image }) => {
         hover:text-blue-500 hover:shadow-xl hover:shadow-black/30
       "
     >
-      <div className="relative h-48 rounded-lg overflow-hidden shadow-inner">
+      <div className="relative h-48 rounded-lg overflow-hidden">
         <Image
           src={image}
           alt={title}
           fill={true}
+          className='shadow-inner shadow-black/25'
         />
       </div>
       <div className="bg-white p-4 rounded-b-lg">
