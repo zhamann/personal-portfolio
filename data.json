@@ -1,22 +1,16 @@
 {
     "projects": [
         {
-            "title": "Portfolio",
-            "description": "View the repository for this website!",
-            "link": "https://github.com/zhamann/personal-portfolio",
-            "image": "/portfolio.png"
+            "title": "BudgetGPT",
+            "description": "A Flask app that uses AI to generate financial savings advice!",
+            "link": "https://github.com/zhamann/budgetGPT",
+            "image": "/budgetGPT.png"
         },
         {
             "title": "Calorie Calculator",
             "description": "A Next.js app that calculates daily caloric intake!",
             "link": "https://github.com/zhamann/calorie-calculator",
             "image": "/calculator.png"
-        },
-        {
-            "title": "BudgetGPT",
-            "description": "A Flask app that uses AI to generate financial savings advice!",
-            "link": "https://github.com/zhamann/budgetGPT",
-            "image": "/budgetGPT.png"
         },
         {
             "title": "Daily Journal",
@@ -35,6 +29,12 @@
             "description": "A Next.js template that uses Tailwind CSS, Typescript, and App Router!",
             "link": "https://github.com/zhamann/flask-dash-boilerplate",
             "image": "/next-template.png"
+        },
+        {
+            "title": "Portfolio",
+            "description": "View the repository for this website!",
+            "link": "https://github.com/zhamann/personal-portfolio",
+            "image": "/portfolio.png"
         }
     ]
 }
